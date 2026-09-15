@@ -1,0 +1,23 @@
+{
+  "eyebrow": { "en": "✦ Rishi Parampara", "hi": "✦ ऋषि परंपरा" },
+  "title": { "en": "The Rishis Who Gave Us Hast Rekha", "hi": "जिन ऋषियों ने दिया हस्तरेखा विज्ञान" },
+  "sub": { "en": "Palmistry is not a modern invention — it is a rishi-given science preserved in the Samudrika and Saptarishi traditions.", "hi": "हस्तरेखा कोई आधुनिक आविष्कार नहीं — यह ऋषि-प्रदत्त विज्ञान है, समुद्रिक और सप्तर्षि परंपरा में सुरक्षित।" },
+  "agastya": {
+    "name": { "en": "Maharshi Agastya", "hi": "महर्षि अगस्त्य" },
+    "role": { "en": "Father of Hast Rekha & Siddha Science", "hi": "हस्तरेखा व सिद्ध विज्ञान के जनक" },
+    "paras": [
+      { "en": "Maharshi Agastya is revered as the principal rishi of palmistry and Samudrika Shastra. The classical Agastya Samudrika texts read the entire destiny from the body's signs — and the palm is their most complete manuscript. He systematised the lines, mounts and marks that we still read today.", "hi": "महर्षि अगस्त्य को हस्तरेखा व समुद्रिक शास्त्र के प्रधान ऋषि के रूप में पूजा जाता है। शास्त्रीय अगस्त्य समुद्रिक ग्रंथ शरीर के चिह्नों से संपूर्ण भाग्य पढ़ते हैं — और हथेली उनकी सबसे पूर्ण पांडुलिपि है। रेखाओं, पर्वतों व चिह्नों का वही क्रमबद्ध रूप है जिसे हम आज भी पढ़ते हैं।" },
+      { "en": "His discoveries go far beyond the palm: the Agastya Nadi texts, the science of herbs and rasayana, the Siddha medicine of the South, water-purification methods (remembered in the legend of drinking the sea), and the spread of Vedic knowledge across the Vindhya to the Tamil land. Palmistry, astrology and healing travel together in his lineage.", "hi": "उनकी खोजें हथेली से बहुत आगे हैं: अगस्त्य नाड़ी ग्रंथ, औषधीय व रसायन विज्ञान, दक्षिण की सिद्ध चिकित्सा, जल-शोधन विधियाँ (समुद्र पान की कथा में स्मृत), और विंध्या के पार तमिल भूमि तक वैदिक ज्ञान का विस्तार। हस्तरेखा, ज्योतिष और चिकित्सा उनकी परंपरा में साथ चलते हैं।" }
+    ]
+  },
+  "saptarishi": [
+    { "name": { "en": "Vashistha", "hi": "वशिष्ठ" }, "work": { "en": "Guru of kings; his Yoga Vashistha maps the mind — the inner half of every palm reading.", "hi": "राजगुरु; उनका योग वशिष्ठ मन का नक्शा है — हर हस्तरेखा रीडिंग का आंतरिक पक्ष।" } },
+    { "name": { "en": "Vishwamitra", "hi": "विश्वामित्र" }, "work": { "en": "King-to-rishi who gave the Gayatri Mantra — the remedy behind countless upay traditions.", "hi": "राजा से ऋषि; गायत्री मंत्र के दाता — अनगिनत उपाय परंपराओं के पीछे का मंत्र।" } },
+    { "name": { "en": "Jamadagni", "hi": "जमदग्नि" }, "work": { "en": "Father of Parashurama; his lineage preserved dharma-shastra and body-sign omens.", "hi": "परशुराम के पिता; उनकी परंपरा ने धर्मशास्त्र और शरीर-शकुन विद्या सुरक्षित रखी।" } },
+    { "name": { "en": "Gautama", "hi": "गौतम" }, "work": { "en": "The logician rishi; his Nyaya school trained palmists to infer, not guess.", "hi": "तार्किक ऋषि; उनकी न्याय-शाखा ने हस्तरेखा शास्त्रियों को अनुमान नहीं, अनुमिति सिखाई।" } },
+    { "name": { "en": "Bharadwaja", "hi": "भरद्वाज" }, "work": { "en": "Rishi of Ayurveda and longevity — the health chapter of every palm report.", "hi": "आयुर्वेद व दीर्घायु के ऋषि — हर हस्तरेखा रिपोर्ट का स्वास्थ्य अध्याय।" } },
+    { "name": { "en": "Atri", "hi": "अत्रि" }, "work": { "en": "Seer of hymns to the stars; his lineage fed the nakshatra science of Jyotish.", "hi": "नक्षत्र-स्तोत्रों के द्रष्टा; उनकी परंपरा ने ज्योतिष की नक्षत्र विद्या को पोषित किया।" } },
+    { "name": { "en": "Kashyapa", "hi": "कश्यप" }, "work": { "en": "Father of all beings; his Kashyapa Samhita covers omens, children and naming.", "hi": "समस्त प्राणियों के पिता; उनकी कश्यप संहिता शकुन, बालक और नामकरण पर है।" } }
+  ],
+  "closing": { "en": "When you read a palm on Hast Rekha AI, you are reading a manuscript these rishis began writing five thousand years ago.", "hi": "जब आप हस्तरेखा AI पर हथेली पढ़ते हैं, तो आप वही पांडुलिपि पढ़ रहे हैं जिसे इन ऋषियों ने पाँच हज़ार वर्ष पहले लिखना आरंभ किया था।" }
+}
