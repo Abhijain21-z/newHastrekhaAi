@@ -9,7 +9,7 @@ import {
   varchar,
   index,
 } from "drizzle-orm/pg-core";
-import type { AstroResult } from "../lib/astrology";
+import type { AstroResult } from "@/lib/astrology";
 
 export const users = pgTable("users", {
   id: uuid("id").primaryKey().defaultRandom(),

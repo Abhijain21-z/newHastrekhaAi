@@ -1,9 +1,9 @@
 import "dotenv/config";
 import { eq } from "drizzle-orm";
 import bcrypt from "bcryptjs";
-import { db, pool } from "./index";
-import { users, readings, birthProfiles, contactMessages } from "./schema";
-import { computeChart } from "../lib/astrology";
+import { db, pool } from "@/db";
+import { users, readings, birthProfiles, contactMessages } from "@/db/schema";
+import { computeChart } from "@/lib/astrology";
 
 export const DEMO_EMAIL = "demo@hastrekha.ai";
 export const DEMO_PASSWORD = "demo1234";
